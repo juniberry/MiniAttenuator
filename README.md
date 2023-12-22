@@ -3,6 +3,9 @@
 ## Introduction
 This repository contains the schematic and Gerber files for a simple inline Pi Attenuator. It was designed for use in amateur radio fox hunts, nothing fancy, cheap to build.
 
+## Photo
+![Mini Attenuator Kit](mini-attenuator.jpg)
+
 ## Schematic
 ![Schematic](Schematic.png)
 
